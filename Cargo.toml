@@ -1,0 +1,12 @@
+[package]
+name = "Exercism-Rust"
+version = "0.1.0"
+edition = "2018"
+
+[[bin]]
+name = "Hello-World"
+path = "src/easy/Hello-World/src/main.rs"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
