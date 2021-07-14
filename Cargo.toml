@@ -12,7 +12,8 @@ members = [
     "src/easy/hello-world",
     "src/easy/leap",
     "src/easy/raindrops",
-    "src/easy/nth-prime"
+    "src/easy/nth-prime",
+    "src/easy/beer-song"
 ]
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
