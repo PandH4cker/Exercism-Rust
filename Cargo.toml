@@ -10,7 +10,8 @@ path = "src/easy/hello-world/src/lib.rs"
 [workspace]
 members = [
     "src/easy/hello-world",
-    "src/easy/leap"
+    "src/easy/leap",
+    "src/easy/raindrops"
 ]
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
