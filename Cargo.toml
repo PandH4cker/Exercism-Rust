@@ -16,7 +16,8 @@ members = [
     "src/easy/beer-song",
     "src/easy/proverb",
     "src/easy/reverse-string",
-    "src/easy/difference-of-squares"
+    "src/easy/difference-of-squares",
+    "src/easy/sum-of-multiples"
 ]
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
