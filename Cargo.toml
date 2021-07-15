@@ -18,7 +18,8 @@ members = [
     "src/easy/reverse-string",
     "src/easy/difference-of-squares",
     "src/easy/sum-of-multiples",
-    "src/easy/grains"
+    "src/easy/grains",
+    "src/easy/prime-factors"
 ]
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
