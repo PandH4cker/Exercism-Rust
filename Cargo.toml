@@ -19,7 +19,8 @@ members = [
     "src/easy/difference-of-squares",
     "src/easy/sum-of-multiples",
     "src/easy/grains",
-    "src/easy/prime-factors"
+    "src/easy/prime-factors",
+    "src/easy/armstrong-numbers"
 ]
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
