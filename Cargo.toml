@@ -9,6 +9,7 @@ path = "src/easy/hello-world/src/lib.rs"
 
 [workspace]
 members = [
+    # EASY
     "src/easy/hello-world",
     "src/easy/leap",
     "src/easy/raindrops",
@@ -20,7 +21,10 @@ members = [
     "src/easy/sum-of-multiples",
     "src/easy/grains",
     "src/easy/prime-factors",
-    "src/easy/armstrong-numbers"
+    "src/easy/armstrong-numbers",
+    "src/easy/gigasecond"
+
+
 ]
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
