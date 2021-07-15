@@ -14,7 +14,8 @@ members = [
     "src/easy/raindrops",
     "src/easy/nth-prime",
     "src/easy/beer-song",
-    "src/easy/proverb"
+    "src/easy/proverb",
+    "src/easy/reverse-string"
 ]
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
